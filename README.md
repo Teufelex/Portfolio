@@ -1,11 +1,11 @@
 ### WEB Development using React & Angular 03 Apr 2021 – 26 Jun 2021  
 ***
-  + ####Final Project "Juno": https://github.com/Teufelex/Juno
+  + #### Final Project "Juno": https://github.com/Teufelex/Juno
   + Other Projects: https://github.com/Teufelex/FD3-Pototskaya 
 
 ### WEB Application Development with JavaScript 21 Nov 2020 – 06 Mar 2021  
 *** 
-  + ####Final Project "Spooky Town": https://github.com/Teufelex/SpookyTown
+  + #### Final Project "Spooky Town": https://github.com/Teufelex/SpookyTown
   + Clock: https://github.com/Teufelex/Clock
   + Elevator: https://github.com/Teufelex/Elevator
   + Tennis: https://github.com/Teufelex/Tennis
